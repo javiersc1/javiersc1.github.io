@@ -30,4 +30,4 @@ In the navigation bar above, I have various sections available ranging from:
  5. **Grad Work** = Graduate portfolio and projects
  6. **Undergrad Work** = Undergraduate portfolio and projects
  7. **Certs** = Certifications ranging from IT, 3D mechanical design, and more
- 8. **CV** = A one page Resume
+ 8. **CV** = A one page resume and university transcripts
