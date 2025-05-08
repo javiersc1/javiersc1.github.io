@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-======
 Resume (press image for link)
 [![CV](/images/cv.png "Press image for link!")](https://javiersc1.github.io/files/cv.pdf)
 
