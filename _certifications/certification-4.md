@@ -1,6 +1,7 @@
 ---
 title: "FE Electrical and Computer"
-excerpt: "<br/><img src='/images/fe.png'>"
+excerpt: "The F.E. Electrical and Computer certification, also known as the Fundamentals of Engineering exam for Electrical and Computer Engineering, is a credential that signifies an engineer's readiness to enter the professional engineering field. Administered by the National Council of Examiners for Engineering and Surveying (NCEES), it covers topics such as circuits, electronics, control systems, and digital systems. Passing this exam is a crucial step for recent graduates and students nearing the completion of an accredited engineering program, as it is often required before pursuing Professional Engineer (P.E.) licensure. <br/><img src='/images/fe.png'>"
 collection: certifications
 ---
+The F.E. Electrical and Computer certification, also known as the Fundamentals of Engineering exam for Electrical and Computer Engineering, is a credential that signifies an engineer's readiness to enter the professional engineering field. Administered by the National Council of Examiners for Engineering and Surveying (NCEES), it covers topics such as circuits, electronics, control systems, and digital systems. Passing this exam is a crucial step for recent graduates and students nearing the completion of an accredited engineering program, as it is often required before pursuing Professional Engineer (P.E.) licensure.
 [![fe](/images/fe.png "Press image for link")](https://account.ncees.org/rn/2056186-1258349-dabe768)
