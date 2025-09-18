@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta property="og:image" content="https://www.javiersc1.github.io/images/linkpreview.png" />
+<meta property="og:image" content="https://javiersc.phd/images/linkpreview.png" />
 Hi! My name is Javier (pronounced like ha-bee-air). I am a fifth year PhD Candidate in the Signal and Image Processing & Machine Learning (SIPML) track of the [Electrical and Computer Engineering (ECE)](https://ece.engin.umich.edu/) department at the University of Michigan. I am co-advised by [Laura Balzano](https://web.eecs.umich.edu/~girasole/) and [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/). I collaborate with [Scott Peltier](https://fmri.research.umich.edu/about/faculty/peltier.php) from the [Biomedical Engineering (BME)](https://bme.umich.edu/) department. I am fortunate to be partially supported by the Rackham Merit Fellowship. My research interests are topics such as signal/image processing, machine learning, deep learning, medical imaging, optimization, and applied math.
 
 

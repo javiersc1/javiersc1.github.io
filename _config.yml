@@ -11,7 +11,7 @@ title                    : "Javier Salazar Cavazos"
 title_separator          : "-"
 name                     : &name "Javier Salazar Cavazos"
 description              : &description "CV"
-url                      : https://javiersc1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://javiersc.phd # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "javiersc1/javiersc1.github.io" #test
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Javier Salazar Cavazos"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "EE PhD Candidate @ University of Michigan"
   location         : "Ann Arbor, MI, USA"
   employer         :
