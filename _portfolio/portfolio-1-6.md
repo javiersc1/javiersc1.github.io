@@ -4,7 +4,6 @@ excerpt: "The POGM optimization algorithm implemented in Python for gradient des
 collection: portfolio
 ---
 The POGM optimization algorithm implemented in Python for gradient descent applications, adapted from Jeff Fessler's Julia code. See original paper for more details. Code located at https://github.com/javiersc1/ProximalOptimizedGradientMethod. Code located at https://github.com/javiersc1/ProximalOptimizedGradientMethod.
-<img src='/images/pogm.png'>
 
 Press image below for github repo.
 ======

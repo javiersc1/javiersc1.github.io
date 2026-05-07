@@ -4,7 +4,6 @@ excerpt: "Python code to extract patches from an image, do some operation, and u
 collection: portfolio
 ---
 Python code to extract patches from an image, do some operation, and unpatchify it. Supports overlapping patches. Code located at https://github.com/javiersc1/Patchify.
-<img src='/images/patch.png'>
 
 Press image below for github repo.
 ======
