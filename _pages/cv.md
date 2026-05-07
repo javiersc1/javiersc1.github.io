@@ -10,6 +10,9 @@ redirect_from:
 Resume (press image for PDF)
 [![CV](/images/cv.png "Press image for PDF!")](https://javiersc1.github.io/files/cv.pdf)
 
+Degrees: Doctor of Philosophy (press image for PDF)
+[![MS](/images/um_ee_phd.png "Press image for PDF!")](https://javiersc1.github.io/files/um_ee_phd.pdf)
+
 Degrees: Master of Science (press image for PDF)
 [![MS](/images/um_ee_ms.png "Press image for PDF!")](https://javiersc1.github.io/files/um_ee_ms.pdf)
 
